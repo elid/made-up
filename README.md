@@ -1,11 +1,11 @@
 
 # Exploration around Typography
 
-![Wavy Text]()
+![Wavy image](img/madeup.gif?raw=true "Wavy Image")
 
 Three js WebGL animation with vertex shader deformation
 
-I was inspired by the beautiful illustration created by Charles Williams [Charles Williams Website: madeup.org](https://raw.githubusercontent.com/elid/made-up/main/img/madeup.gif).
+I was inspired by the beautiful illustration created by Charles Williams [Charles Williams Website: madeup.org](https://www.madeup.org/).
 
 ## Usage
 
